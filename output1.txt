@@ -1,0 +1,16 @@
+t = 0:  Simulation begins
+t = 20: Arrival event
+t = 22: Arrival event
+t = 23: Arrival event
+t = 25: Departure event
+t = 29: Departure event
+t = 30: Arrival event
+t = 31: Departure event
+t = 34: Departure event
+
+Total number of customers = 4
+Average amount of time in the bank = 6 minutes
+Maximum amount of time in the bank = 8 minutes
+Average amount of time waiting = 2.5 minutes
+Maximum amount of time waiting = 6 minutes
+Maximum length of line = 3 customers
